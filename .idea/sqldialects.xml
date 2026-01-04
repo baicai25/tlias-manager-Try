@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/fda68b8b-3e80-46c6-a0b2-5621da81d55f/console_2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tilias-web-management/src/main/resources/org/example/mapper/EmpExprMapper.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/tilias-web-management/src/main/resources/org/example/mapper/EmpMapper.xml" dialect="MySQL" />
+    <file url="PROJECT" dialect="MySQL" />
+  </component>
+</project>

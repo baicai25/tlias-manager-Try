@@ -1,0 +1,19 @@
+package org.example.service;
+
+import org.example.pojo.JobOption;
+
+import java.util.List;
+import java.util.Map;
+
+public interface ReportService {
+
+    JobOption getEmpJobData();
+
+    List<Map<String, Integer>> getEmpGenderData();
+
+    List<Map<String, Object>> getStudentDegreeData();
+
+    //JobOption getClassCountData();
+
+    Map<String, Object> getStudentCountData();
+}
